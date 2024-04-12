@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\15. Exercise Implementing an OOP Hierarchy\\15-Resources-Implementing-OOP-Hierarchy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB1A1BB-4954-4442-8053-B08ACB595331}|ExerciseOopHierarchy.csproj|c:\\users\\pc\\desktop\\qa fundamentals\\programming advanced for qa\\15. exercise implementing an oop hierarchy\\15-resources-implementing-oop-hierarchy\\dessertmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB1A1BB-4954-4442-8053-B08ACB595331}|ExerciseOopHierarchy.csproj|solutionrelative:dessertmenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB1A1BB-4954-4442-8053-B08ACB595331}|ExerciseOopHierarchy.csproj|c:\\users\\pc\\desktop\\qa fundamentals\\programming advanced for qa\\15. exercise implementing an oop hierarchy\\15-resources-implementing-oop-hierarchy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB1A1BB-4954-4442-8053-B08ACB595331}|ExerciseOopHierarchy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB1A1BB-4954-4442-8053-B08ACB595331}|ExerciseOopHierarchy.csproj|c:\\users\\pc\\desktop\\qa fundamentals\\programming advanced for qa\\15. exercise implementing an oop hierarchy\\15-resources-implementing-oop-hierarchy\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB1A1BB-4954-4442-8053-B08ACB595331}|ExerciseOopHierarchy.csproj|solutionrelative:menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB1A1BB-4954-4442-8053-B08ACB595331}|ExerciseOopHierarchy.csproj|c:\\users\\pc\\desktop\\qa fundamentals\\programming advanced for qa\\15. exercise implementing an oop hierarchy\\15-resources-implementing-oop-hierarchy\\appetizermenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB1A1BB-4954-4442-8053-B08ACB595331}|ExerciseOopHierarchy.csproj|solutionrelative:appetizermenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB1A1BB-4954-4442-8053-B08ACB595331}|ExerciseOopHierarchy.csproj|c:\\users\\pc\\desktop\\qa fundamentals\\programming advanced for qa\\15. exercise implementing an oop hierarchy\\15-resources-implementing-oop-hierarchy\\maincoursemenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB1A1BB-4954-4442-8053-B08ACB595331}|ExerciseOopHierarchy.csproj|solutionrelative:maincoursemenuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB1A1BB-4954-4442-8053-B08ACB595331}|ExerciseOopHierarchy.csproj|c:\\users\\pc\\desktop\\qa fundamentals\\programming advanced for qa\\15. exercise implementing an oop hierarchy\\15-resources-implementing-oop-hierarchy\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB1A1BB-4954-4442-8053-B08ACB595331}|ExerciseOopHierarchy.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB1A1BB-4954-4442-8053-B08ACB595331}|ExerciseOopHierarchy.csproj|c:\\users\\pc\\desktop\\qa fundamentals\\programming advanced for qa\\15. exercise implementing an oop hierarchy\\15-resources-implementing-oop-hierarchy\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB1A1BB-4954-4442-8053-B08ACB595331}|ExerciseOopHierarchy.csproj|solutionrelative:restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DB1A1BB-4954-4442-8053-B08ACB595331}|ExerciseOopHierarchy.csproj|c:\\users\\pc\\desktop\\qa fundamentals\\programming advanced for qa\\15. exercise implementing an oop hierarchy\\15-resources-implementing-oop-hierarchy\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DB1A1BB-4954-4442-8053-B08ACB595331}|ExerciseOopHierarchy.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\15. Exercise Implementing an OOP Hierarchy\\15-Resources-Implementing-OOP-Hierarchy\\Restaurant.cs",
+              "RelativeDocumentMoniker": "Restaurant.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\15. Exercise Implementing an OOP Hierarchy\\15-Resources-Implementing-OOP-Hierarchy\\Restaurant.cs",
+              "RelativeToolTip": "Restaurant.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:35:42.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\15. Exercise Implementing an OOP Hierarchy\\15-Resources-Implementing-OOP-Hierarchy\\Customer.cs",
+              "RelativeDocumentMoniker": "Customer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\15. Exercise Implementing an OOP Hierarchy\\15-Resources-Implementing-OOP-Hierarchy\\Customer.cs",
+              "RelativeToolTip": "Customer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:29:59.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainCourseMenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\15. Exercise Implementing an OOP Hierarchy\\15-Resources-Implementing-OOP-Hierarchy\\MainCourseMenuItem.cs",
+              "RelativeDocumentMoniker": "MainCourseMenuItem.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\15. Exercise Implementing an OOP Hierarchy\\15-Resources-Implementing-OOP-Hierarchy\\MainCourseMenuItem.cs",
+              "RelativeToolTip": "MainCourseMenuItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:11:48.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppetizerMenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\15. Exercise Implementing an OOP Hierarchy\\15-Resources-Implementing-OOP-Hierarchy\\AppetizerMenuItem.cs",
+              "RelativeDocumentMoniker": "AppetizerMenuItem.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\15. Exercise Implementing an OOP Hierarchy\\15-Resources-Implementing-OOP-Hierarchy\\AppetizerMenuItem.cs",
+              "RelativeToolTip": "AppetizerMenuItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:04:04.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\15. Exercise Implementing an OOP Hierarchy\\15-Resources-Implementing-OOP-Hierarchy\\MenuItem.cs",
+              "RelativeDocumentMoniker": "MenuItem.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\15. Exercise Implementing an OOP Hierarchy\\15-Resources-Implementing-OOP-Hierarchy\\MenuItem.cs",
+              "RelativeToolTip": "MenuItem.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:35:29.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\15. Exercise Implementing an OOP Hierarchy\\15-Resources-Implementing-OOP-Hierarchy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\15. Exercise Implementing an OOP Hierarchy\\15-Resources-Implementing-OOP-Hierarchy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T17:35:16.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DessertMenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\15. Exercise Implementing an OOP Hierarchy\\15-Resources-Implementing-OOP-Hierarchy\\DessertMenuItem.cs",
+              "RelativeDocumentMoniker": "DessertMenuItem.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\15. Exercise Implementing an OOP Hierarchy\\15-Resources-Implementing-OOP-Hierarchy\\DessertMenuItem.cs",
+              "RelativeToolTip": "DessertMenuItem.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:15:23.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\15. Exercise Implementing an OOP Hierarchy\\15-Resources-Implementing-OOP-Hierarchy\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\15. Exercise Implementing an OOP Hierarchy\\15-Resources-Implementing-OOP-Hierarchy\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAABEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T18:19:28.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
